@@ -79,13 +79,19 @@ $colorText: #076b74;
 $colorTextChecked: #a5e7ec;
 
 
+// .todo__icon__remove {
+//   display: block;
+//   // position: relative;
+//   margin-left:  auto;
+//   cursor: pointer; 
+//   // width: 10%;
+//   // margin-bottom: 100px;
+// }
 .todo__icon__remove {
-  display: block;
-  // position: relative;
-  margin-left:  auto;
+  // display: block;
+  float: right;
+  margin-top: -30px;
   cursor: pointer; 
-  // width: 10%;
-  // margin-bottom: 100px;
 }
 .todo__icon__remove:hover {
   color: #e95678 !important;
@@ -95,10 +101,10 @@ $colorTextChecked: #a5e7ec;
   position: relative;
   padding: 1em 1em 1em 16%;
   margin: 0 auto;
-  cursor: pointer; 
+  // cursor: pointer; 
   border-bottom: solid 1px #ddd; 
   &:last-child { border-bottom: none; }
-  width: 90%;
+  width: 80%;
 }
 
 .todo.new-item {
