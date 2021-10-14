@@ -1,13 +1,4 @@
-![Example](https://github.com/mauriciogc/my-todo-list-app/blob/master/img/example.png)
-           
-[See GIF example](https://github.com/mauriciogc/my-todo-list-app/blob/master/img/animation.gif)
 
-
-## You can see the tutorial here
-[See tutorial (Spanish)](https://medium.com/@mauriciogc/react-creando-una-app-to-do-list-con-create-react-app-y-el-hook-usestate-6ae378569705)
-
-## You can see a live demo here
-* [React App ToDo List](https://codesandbox.io/s/github/mauriciogc/react-app-todo-list)
 
 ## Available Scripts
 
